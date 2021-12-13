@@ -1,3 +1,5 @@
+## 6.0.1
+- Update rails-i18n.gemspec to allow Railties < 8.0.0
 ## 6.0.0
 - Update rails-i18n.gemspec to use Railties 6.0.0
 - Add Malagasy (mg) locale
